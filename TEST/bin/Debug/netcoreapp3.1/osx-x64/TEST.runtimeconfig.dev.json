@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/xss/.dotnet/store/|arch|/|tfm|",
+      "/Users/xss/.nuget/packages"
+    ]
+  }
+}
